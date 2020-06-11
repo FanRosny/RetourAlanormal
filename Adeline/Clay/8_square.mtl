@@ -3,51 +3,51 @@
 newmtl default
 Kd 1 1 1
 
-newmtl Mat
+newmtl Mat 1
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 01.jpg
 illum 7
 
-newmtl Mat_9
+newmtl Mat 2
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 02.jpg
 illum 7
 
-newmtl Mat_8
+newmtl Mat 3
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 03.jpg
 illum 7
 
-newmtl Mat_7
+newmtl Mat 4
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 04.jpg
 illum 7
 
-newmtl Mat_5
+newmtl Mat 5
+Ka 1 1 1
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd 05.jpg
+illum 7
+
+newmtl Mat 6
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 06.jpg
 illum 7
 
-newmtl Mat_4
+newmtl Mat 7
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 07.jpg
 illum 7
 
-newmtl Mat_3
+newmtl Mat 8
 Ka 1 1 1
 Kd 0.80000001192093 0.80000001192093 0.80000001192093
 map_Kd 08.jpg
-illum 7
-
-newmtl Mat_6
-Ka 1 1 1
-Kd 0.80000001192093 0.80000001192093 0.80000001192093
-map_Kd 05.jpg
 illum 7
 
