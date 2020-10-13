@@ -14,4 +14,3 @@ newmtl Material__35
 	Ke 0.000000 0.000000 0.000000
 	map_Ka ..\polarization_test1_Material__35_BaseColor.png
 	map_Kd ..\polarization_test1_Material__35_BaseColor.png
-	map_Ks ..\Map__2070300109_Output.tga
